@@ -1,4 +1,4 @@
-# dsci_capstone
+# Rate_My_Professor_Trends
 
 There are two files available, a csv for dataset and a python notebook for the basic EDA.
 
